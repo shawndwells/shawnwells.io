@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
-title: "Cvio - CV Resume & Personal Portfolio Jekyll Theme"
-email: "your-email@example.com"
-description: "Jekyll Resume / CV / vCard / Portfolio / Personal template"
-author: "Admin"
+title: "Shawn Wells"
+email: "shawn@shawndwells.io"
+description: "Shawn Wells vCard"
+author: "shawn"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shawnwells.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks
@@ -33,7 +33,7 @@ paginate_path: "/blog/page:num/"
 permalink: pretty
 
 # disqus comments
-disqus_comments: "yes" # yes - show disqus comments, no - hide disqus comments
+disqus_comments: "no" # yes - show disqus comments, no - hide disqus comments
 disqus_shortname: "glitche-jekyll-theme" # read more here https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # formsubmit.io
